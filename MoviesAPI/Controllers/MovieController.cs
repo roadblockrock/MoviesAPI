@@ -3,8 +3,6 @@ using MoviesAPI.DTOs;
 using MoviesAPI.Exceptions;
 using MoviesAPI.Services;
 using System.Net;
-using System.Xml.Linq;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace MoviesAPI.Controllers
 {
